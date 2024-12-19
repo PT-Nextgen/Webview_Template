@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-import 'package:webview_template/configuration.dart';
-import 'package:webview_template/pages/main_page.dart';
-import 'package:webview_template/widgets/onboarding_view.dart';
+
+import '../configuration.dart';
+import '../widgets/onboarding_view.dart';
+import 'main_page.dart';
 
 class OnBoardingPage extends StatefulWidget {
   const OnBoardingPage({Key? key}) : super(key: key);

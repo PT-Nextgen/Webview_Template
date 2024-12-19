@@ -16,7 +16,7 @@ class AppColors {
 class AppData {
   // Masukkan nama yang diinginkan, contoh bisa menggunakan nama web
   // atau nama perusahaan
-  static String appName = "Nextgen";
+  static String appName = "Youtube";
 
   // Masukkan url web
   // contoh: "https://nextgen.co.id/"

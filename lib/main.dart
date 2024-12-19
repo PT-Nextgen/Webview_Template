@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:webview_template/configuration.dart';
-import 'package:webview_template/pages/onboarding_page.dart';
+import 'package:webview_templates/pages/onboarding_page.dart';
 
+import 'configuration.dart';
 import 'pages/main_page.dart';
 
 int? initScreen;

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:webview_template/configuration.dart';
-import 'package:webview_template/widgets/custom_text.dart';
+
+import '../configuration.dart';
+import 'custom_text.dart';
 
 class OnboardingView extends StatelessWidget {
   const OnboardingView(this.index, {super.key});

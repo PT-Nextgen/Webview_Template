@@ -2,7 +2,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:webview_template/configuration.dart';
+
+import '../configuration.dart';
 
 class MainPage extends StatefulWidget {
   final String url;
